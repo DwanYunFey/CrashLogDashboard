@@ -1,5 +1,5 @@
 # CrashLogDashboard
-A web application built on [vue3-element-admin](https://vue3-element-admin-site.midfar.com/), providing a data dashboard for [CrashLogPuller](https://github.com/DwanYunFey/CrashLogPuller).
+A web application based on [vue3-element-admin](https://vue3-element-admin-site.midfar.com/), providing a data dashboard for [CrashLogPuller](https://github.com/DwanYunFey/CrashLogPuller), currently adopted by Xiaomi’s robot vacuum team for internal use to monitor any software crashes during runtime.
 
 ![Project Demonstration](./public/Dashboard.JPEG)
 
